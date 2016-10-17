@@ -6,16 +6,6 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		C7F1C7B61DB48509007146FF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F1C7B51DB48509007146FF /* AppDelegate.swift */; };
-		C7F1C7B81DB48509007146FF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F1C7B71DB48509007146FF /* ViewController.swift */; };
-		C7F1C7BB1DB48509007146FF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7F1C7B91DB48509007146FF /* Main.storyboard */; };
-		C7F1C7BD1DB48509007146FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7F1C7BC1DB48509007146FF /* Assets.xcassets */; };
-		C7F1C7C01DB48509007146FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7F1C7BE1DB48509007146FF /* LaunchScreen.storyboard */; };
-		C7F1C7CB1DB48509007146FF /* Semana_2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F1C7CA1DB48509007146FF /* Semana_2Tests.swift */; };
-		C7F1C7D61DB4850A007146FF /* Semana_2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F1C7D51DB4850A007146FF /* Semana_2UITests.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXContainerItemProxy section */
 		C7F1C7C71DB48509007146FF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -34,19 +24,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		C7F1C7B21DB48509007146FF /* Semana_2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Semana_2.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		C7F1C7B51DB48509007146FF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		C7F1C7B71DB48509007146FF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		C7F1C7BA1DB48509007146FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		C7F1C7BC1DB48509007146FF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		C7F1C7BF1DB48509007146FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		C7F1C7C11DB48509007146FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C7F1C7C61DB48509007146FF /* Semana_2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Semana_2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		C7F1C7CA1DB48509007146FF /* Semana_2Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Semana_2Tests.swift; sourceTree = "<group>"; };
-		C7F1C7CC1DB48509007146FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C7F1C7D11DB4850A007146FF /* Semana_2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Semana_2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		C7F1C7D51DB4850A007146FF /* Semana_2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Semana_2UITests.swift; sourceTree = "<group>"; };
-		C7F1C7D71DB4850A007146FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C7F1C7B21DB48509007146FF /* Semana_2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Semana_2.app; path = "/Users/Saul/Documents/DevApp/Semana_2/build/Debug-iphoneos/Semana_2.app"; sourceTree = "<absolute>"; };
+		C7F1C7C61DB48509007146FF /* Semana_2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = Semana_2Tests.xctest; path = "/Users/Saul/Documents/DevApp/Semana_2/build/Debug-iphoneos/Semana_2Tests.xctest"; sourceTree = "<absolute>"; };
+		C7F1C7D11DB4850A007146FF /* Semana_2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = Semana_2UITests.xctest; path = "/Users/Saul/Documents/DevApp/Semana_2/build/Debug-iphoneos/Semana_2UITests.xctest"; sourceTree = "<absolute>"; };
 		C7F1C7E31DB4853A007146FF /* minireto_1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = minireto_1.playground; path = ../minireto_1.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -79,52 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				C7F1C7E31DB4853A007146FF /* minireto_1.playground */,
-				C7F1C7B41DB48509007146FF /* Semana_2 */,
-				C7F1C7C91DB48509007146FF /* Semana_2Tests */,
-				C7F1C7D41DB4850A007146FF /* Semana_2UITests */,
-				C7F1C7B31DB48509007146FF /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		C7F1C7B31DB48509007146FF /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				C7F1C7B21DB48509007146FF /* Semana_2.app */,
-				C7F1C7C61DB48509007146FF /* Semana_2Tests.xctest */,
-				C7F1C7D11DB4850A007146FF /* Semana_2UITests.xctest */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		C7F1C7B41DB48509007146FF /* Semana_2 */ = {
-			isa = PBXGroup;
-			children = (
-				C7F1C7B51DB48509007146FF /* AppDelegate.swift */,
-				C7F1C7B71DB48509007146FF /* ViewController.swift */,
-				C7F1C7B91DB48509007146FF /* Main.storyboard */,
-				C7F1C7BC1DB48509007146FF /* Assets.xcassets */,
-				C7F1C7BE1DB48509007146FF /* LaunchScreen.storyboard */,
-				C7F1C7C11DB48509007146FF /* Info.plist */,
-			);
-			path = Semana_2;
-			sourceTree = "<group>";
-		};
-		C7F1C7C91DB48509007146FF /* Semana_2Tests */ = {
-			isa = PBXGroup;
-			children = (
-				C7F1C7CA1DB48509007146FF /* Semana_2Tests.swift */,
-				C7F1C7CC1DB48509007146FF /* Info.plist */,
-			);
-			path = Semana_2Tests;
-			sourceTree = "<group>";
-		};
-		C7F1C7D41DB4850A007146FF /* Semana_2UITests */ = {
-			isa = PBXGroup;
-			children = (
-				C7F1C7D51DB4850A007146FF /* Semana_2UITests.swift */,
-				C7F1C7D71DB4850A007146FF /* Info.plist */,
-			);
-			path = Semana_2UITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -215,7 +150,7 @@
 				Base,
 			);
 			mainGroup = C7F1C7A91DB48509007146FF;
-			productRefGroup = C7F1C7B31DB48509007146FF /* Products */;
+			productRefGroup = C7F1C7A91DB48509007146FF;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -231,9 +166,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C7F1C7C01DB48509007146FF /* LaunchScreen.storyboard in Resources */,
-				C7F1C7BD1DB48509007146FF /* Assets.xcassets in Resources */,
-				C7F1C7BB1DB48509007146FF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,8 +190,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C7F1C7B81DB48509007146FF /* ViewController.swift in Sources */,
-				C7F1C7B61DB48509007146FF /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,7 +197,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C7F1C7CB1DB48509007146FF /* Semana_2Tests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,7 +204,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C7F1C7D61DB4850A007146FF /* Semana_2UITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -293,25 +221,6 @@
 			targetProxy = C7F1C7D21DB4850A007146FF /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		C7F1C7B91DB48509007146FF /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				C7F1C7BA1DB48509007146FF /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		C7F1C7BE1DB48509007146FF /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				C7F1C7BF1DB48509007146FF /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		C7F1C7D81DB4850A007146FF /* Debug */ = {
