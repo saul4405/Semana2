@@ -24,9 +24,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		C7F1C7B21DB48509007146FF /* Semana_2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Semana_2.app; path = "/Users/Saul/Documents/DevApp/Semana_2/build/Debug-iphoneos/Semana_2.app"; sourceTree = "<absolute>"; };
-		C7F1C7C61DB48509007146FF /* Semana_2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = Semana_2Tests.xctest; path = "/Users/Saul/Documents/DevApp/Semana_2/build/Debug-iphoneos/Semana_2Tests.xctest"; sourceTree = "<absolute>"; };
-		C7F1C7D11DB4850A007146FF /* Semana_2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = Semana_2UITests.xctest; path = "/Users/Saul/Documents/DevApp/Semana_2/build/Debug-iphoneos/Semana_2UITests.xctest"; sourceTree = "<absolute>"; };
+		C7B2B4471DB49106003DA07B /* Semana_2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Semana_2.app; path = "/Users/Saul/Documents/DevApp/Semana_2/build/Debug-iphoneos/Semana_2.app"; sourceTree = "<absolute>"; };
+		C7B2B4481DB49106003DA07B /* Semana_2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = Semana_2Tests.xctest; path = "/Users/Saul/Documents/DevApp/Semana_2/build/Debug-iphoneos/Semana_2Tests.xctest"; sourceTree = "<absolute>"; };
+		C7B2B4491DB49106003DA07B /* Semana_2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = Semana_2UITests.xctest; path = "/Users/Saul/Documents/DevApp/Semana_2/build/Debug-iphoneos/Semana_2UITests.xctest"; sourceTree = "<absolute>"; };
 		C7F1C7E31DB4853A007146FF /* minireto_1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = minireto_1.playground; path = ../minireto_1.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -79,7 +79,7 @@
 			);
 			name = Semana_2;
 			productName = Semana_2;
-			productReference = C7F1C7B21DB48509007146FF /* Semana_2.app */;
+			productReference = C7B2B4471DB49106003DA07B /* Semana_2.app */;
 			productType = "com.apple.product-type.application";
 		};
 		C7F1C7C51DB48509007146FF /* Semana_2Tests */ = {
@@ -97,7 +97,7 @@
 			);
 			name = Semana_2Tests;
 			productName = Semana_2Tests;
-			productReference = C7F1C7C61DB48509007146FF /* Semana_2Tests.xctest */;
+			productReference = C7B2B4481DB49106003DA07B /* Semana_2Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 		C7F1C7D01DB48509007146FF /* Semana_2UITests */ = {
@@ -115,7 +115,7 @@
 			);
 			name = Semana_2UITests;
 			productName = Semana_2UITests;
-			productReference = C7F1C7D11DB4850A007146FF /* Semana_2UITests.xctest */;
+			productReference = C7B2B4491DB49106003DA07B /* Semana_2UITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -395,6 +395,7 @@
 				C7F1C7DC1DB4850A007146FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C7F1C7DD1DB4850A007146FF /* Build configuration list for PBXNativeTarget "Semana_2Tests" */ = {
 			isa = XCConfigurationList;
@@ -403,6 +404,7 @@
 				C7F1C7DF1DB4850A007146FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C7F1C7E01DB4850A007146FF /* Build configuration list for PBXNativeTarget "Semana_2UITests" */ = {
 			isa = XCConfigurationList;
@@ -411,6 +413,7 @@
 				C7F1C7E21DB4850A007146FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
