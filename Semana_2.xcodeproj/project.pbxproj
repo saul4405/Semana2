@@ -47,6 +47,7 @@
 		C7F1C7D11DB4850A007146FF /* Semana_2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Semana_2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7F1C7D51DB4850A007146FF /* Semana_2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Semana_2UITests.swift; sourceTree = "<group>"; };
 		C7F1C7D71DB4850A007146FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C7F1C7E31DB4853A007146FF /* minireto_1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = minireto_1.playground; path = ../minireto_1.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		C7F1C7A91DB48509007146FF = {
 			isa = PBXGroup;
 			children = (
+				C7F1C7E31DB4853A007146FF /* minireto_1.playground */,
 				C7F1C7B41DB48509007146FF /* Semana_2 */,
 				C7F1C7C91DB48509007146FF /* Semana_2Tests */,
 				C7F1C7D41DB4850A007146FF /* Semana_2UITests */,
